@@ -1,0 +1,7 @@
+{
+  "name": "D&D Character Generator AI",
+  "description": "Uses your camera and AI to generate a unique Dungeons & Dragons character. Capture your image to inspire a new hero with a unique backstory, stats, and an AI-generated portrait.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
